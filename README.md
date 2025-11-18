@@ -1,10 +1,9 @@
 # avaSemestralPadraoProjeto
 
-Padrões Utilizados
-Q1. Factory Method
-Q2. Strategy
-Q3. Observer
-Q4. Chain of Responsibility
-Q5. Singleton
+Padrões Utilizados:
 
-1. Factory
+1. Factory Method
+2. Strategy
+3. Observer
+4. Chain of Responsibility
+5. Singleton
